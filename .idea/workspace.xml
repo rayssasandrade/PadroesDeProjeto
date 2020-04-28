@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89efeeb8-ff01-4a4b-b3cb-eb49a07a2dc3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GestaoProfessor/Coordernador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GestaoProfessor/Diretor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GestaoProfessor/GerenteDeEnsino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GestaoProfessor/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GestaoProfessor/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GestaoProfessor/ProfessorAb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GestaoProfessor/ProfessorDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +20,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/BridgeII" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -60,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588101756933</updated>
-      <workItem from="1588101760885" duration="1169000" />
+      <workItem from="1588101760885" duration="1379000" />
     </task>
     <servers />
   </component>
