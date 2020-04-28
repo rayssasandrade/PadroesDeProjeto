@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89efeeb8-ff01-4a4b-b3cb-eb49a07a2dc3" name="Default Changelist" comment="" />
+    <list default="true" id="89efeeb8-ff01-4a4b-b3cb-eb49a07a2dc3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/SistemaDeControleRestaurante/Bebida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaDeControleRestaurante/BebidaInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaDeControleRestaurante/Caixa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaDeControleRestaurante/Cardapio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaDeControleRestaurante/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaDeControleRestaurante/ComissaoesGarcons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaDeControleRestaurante/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaDeControleRestaurante/Entrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaDeControleRestaurante/Garçon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaDeControleRestaurante/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaDeControleRestaurante/Mesa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaDeControleRestaurante/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaDeControleRestaurante/PratoDeEntradaInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaDeControleRestaurante/PratoPrincipalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaDeControleRestaurante/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaDeControleRestaurante/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaDeControleRestaurante/ProdutoInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaDeControleRestaurante/Sobremesa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaDeControleRestaurante/SobremesaInterface.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588101756933</updated>
-      <workItem from="1588101760885" duration="627000" />
+      <workItem from="1588101760885" duration="898000" />
     </task>
     <servers />
   </component>
